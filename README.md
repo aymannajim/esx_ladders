@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=5-23J-UhyOo
 
 ## CREDITS:
 > This script of mine is a re-release of [ChristopherM's Inferno Ladders Script](https://forum.cfx.re/t/release-ladders/1439521) under the MIT License, I modified his script to make it work with ESX-Based items and added mythic notifications, Translation and 3D text draws.
-The original repo is archived so I couldn't make a re-fork and  that's why I created my own repository to further develop this script for ESX and y'all could help us add support for other languages, add new features and optimize the script.
+I created my own repository to further develop this script for ESX and y'all could help us add support for other languages, add new features and optimize the script.
