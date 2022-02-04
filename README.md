@@ -1,5 +1,5 @@
 # __ESX Ladders__ 🚒👨‍🚒
-ESX version of https://github.com/inferno-collection/Ladders
+
 ![esx_ladders](https://forum.cfx.re/uploads/default/original/4X/c/1/b/c1b31d2efae7f6cf39807eca4708f8ec8537c9fe.jpeg)
 
 ## Dependencies
